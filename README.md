@@ -22,6 +22,15 @@
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Environmental-Sound-Classification-Papers/blob/master/e(12).pdf" style="text-decoration:none;">Ubicoustics: Plug-and-Play Acoustic Activity Recognition</a></li>  
   
-  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Environmental-Sound-Classification-Papers/blob/master/e(13).pdf" style="text-decoration:none;">Environmental sound classification based on feature fusion</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Environmental-Sound-Classification-Papers/blob/master/e(14).pdf" style="text-decoration:none;">Environment Sound Classification using Multiple Feature Channels and Deep Convolutional Neural Networks</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Environmental-Sound-Classification-Papers/blob/master/e(15).pdf" style="text-decoration:none;">Environment Sound Classification Using a Two-Stream CNN Based on Decision-Level Fusion</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Environmental-Sound-Classification-Papers/blob/master/e(16).pdf" style="text-decoration:none;">Ecient Classification of Environmental Sounds through Multiple Features Aggregation and Data Enhancement Techniques for Spectrogram Images</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Environmental-Sound-Classification-Papers/blob/master/e(17).pdf" style="text-decoration:none;">Environmental sound classification with convolutional neural networks</a></li>   
+   
   
 </ul>
