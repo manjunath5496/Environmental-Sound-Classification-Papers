@@ -18,5 +18,10 @@
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Environmental-Sound-Classification-Papers/blob/master/e(10).pdf" style="text-decoration:none;">SoundCLR: Contrastive Learning of Representations For Improved Environmental Sound Classification </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Environmental-Sound-Classification-Papers/blob/master/e(11).pdf" style="text-decoration:none;">End-to-End Environmental Sound Classication using a 1D Convolutional Neural Network</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Environmental-Sound-Classification-Papers/blob/master/e(11).pdf" style="text-decoration:none;">End-to-End Environmental Sound Classification using a 1D Convolutional Neural Network</a></li>
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Environmental-Sound-Classification-Papers/blob/master/e(12).pdf" style="text-decoration:none;">Ubicoustics: Plug-and-Play Acoustic Activity Recognition</a></li>  
+  
+  
+  
 </ul>
